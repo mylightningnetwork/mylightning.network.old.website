@@ -4,7 +4,7 @@ description: 'Place where people meet to discuss and know fraud within DeFi'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 domain: mylightning.network        # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: http://mylightning.network    # the base hostname and protocol for your site, e.g. http://example.com
+url: https://mylightning.network    # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /                         # the folder where your content is placed
 disqus: ''
 email: ''
