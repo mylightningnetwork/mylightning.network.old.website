@@ -8540,3 +8540,14 @@ html {
 .navbar-brand img {
   max-width: 41px;
 }
+.hero {
+  height: 400px;
+  padding: 50px 0;
+  background-image: url("../images/hero.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  display: flex;
+  align-items: center;
+}
