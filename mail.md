@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Subscription"
 layout: default
 pagination:
 enabled: true
