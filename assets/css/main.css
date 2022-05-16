@@ -8460,3 +8460,83 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+.section {
+  padding: 100px 0;
+  position: relative;
+}
+.content * {
+  margin: 25px 0;
+}
+.line {
+  border: 1px dashed #fff;
+}
+.gap {
+  height: 20px;
+}
+.line-dark {
+  border-color: #000;
+}
+.smalltext {
+  font-size: 12px;
+  text-align: center;
+  margin: 20px 0;
+}
+.smalltext span {
+  color: #fff;
+}
+.content h2 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 38px;
+}
+.content h3 {
+  color: #fff;
+}
+.content p {
+  color: #fff;
+}
+.content p strong {
+  display: block; 
+  margin-bottom: 0;
+  font-size: 18px;
+  text-decoration: underline;
+}
+.content img {
+  margin: 10px 0;
+}
+.bg-yello {
+  background: #ff9500;
+}
+.bg-dark {
+  background: #000;
+}
+.faq-item {
+  margin-bottom: 60px;
+}
+.faq-item h3{
+  font-size: 22px;
+  font-weight: 700;
+  color: #00ba7c;
+}
+.faq-item p{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 27px;
+}
+.box-item {
+  margin-bottom: 30px;
+}
+.box-item img{
+  border-radius: 50%;
+}
+.box-item h3 {
+  color: #ff9500;
+  margin: 15px 0;
+}
+.box-item p{
+  color: #fff;
+}
+.navbar-brand img {
+  max-width: 41px;
+}
