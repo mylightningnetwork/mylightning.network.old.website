@@ -8551,3 +8551,14 @@ html {
   display: flex;
   align-items: center;
 }
+.sbs-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.left,.right {
+  width: 50%;
+}
+.optionalParent {
+  margin: 20px 0;
+}
