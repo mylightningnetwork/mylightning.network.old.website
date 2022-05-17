@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magic. Internet. Money. at Lightning Speed!"
-categories: [ Jekyll ]
+categories: [ Jekyll, Videos ]
 image: assets/images/bitcoin-ln.jpg
 ---
 Magic. Internet. Money. Otherwise known as Bitcoin travels at lightning speed on the new rails of lightning network at scale that all what it is.

@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-categories: [ Jekyll,Podcast ]
+categories: [ Jekyll,Podcast,Videos ]
 image: '../assets/images/banner_image_1.png'
 audio: '../assets/audios/episode1.mp3'
+youtube: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
