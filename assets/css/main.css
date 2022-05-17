@@ -8558,7 +8558,15 @@ html {
 }
 .left,.right {
   width: 50%;
+  position: relative;
 }
-.optionalParent {
-  margin: 20px 0;
+.button {
+  margin: 0;
+}
+.img-block {
+  margin-bottom: 20px;
+}
+#mc_embed_signup .foot {
+  display: block !important;
+  margin-top: 20px;
 }
