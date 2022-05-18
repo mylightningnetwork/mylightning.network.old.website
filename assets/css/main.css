@@ -8570,3 +8570,14 @@ html {
   display: block !important;
   margin-top: 20px;
 }
+.social-nav li {
+  margin-right: 20px;
+}
+.social-nav li a svg{
+  width: 20px;
+  fill: #333;
+  height: 20px;
+}
+.social-nav li a:hover svg{
+  fill: #025d45;
+}
