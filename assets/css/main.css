@@ -8587,3 +8587,7 @@ html {
 .magazine-content h3 .title{
   font-size: 24px;
 }
+.timeline:nth-child(3),
+.timeline:nth-child(4) {
+  display: none !important;
+}
