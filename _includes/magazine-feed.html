@@ -1,0 +1,34 @@
+<section class="section-padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <h2 class="block-heading">
+                    Previous Workshops
+                </h2>
+            </div>
+        </div>
+        <div class="gap"></div>
+        <div class="row gutter-30">
+            {% assign weighted_magazines = site.magazines | sort: "weight" %}
+            {% for magazine in weighted_magazines limit:3 %}
+            <div class="col-md-4">
+                <div class="magazine-single {% if magazine.active %}active{% endif %}">
+                    {% if magazine.thumb %}
+                    <div class="magazine-thumb">
+                        <a href="{{ magazine.url }}" class="title">
+                            <img src="{{ magazine.thumb }}" alt="{{ magazine.title }}">                        
+                        </a>
+                    </div>
+                    {% endif %}
+                    <div class="magazine-content">
+                        <h3>
+                            <a href="{{ magazine.url }}" class="title">{{ magazine.title }}</a>
+                        </h3>
+                        <p class="designation">{{ magazine.year }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section><!-- ./section -->

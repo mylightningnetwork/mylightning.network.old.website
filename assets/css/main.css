@@ -8581,3 +8581,9 @@ html {
 .social-nav li a:hover svg{
   fill: #025d45;
 }
+.magazine-content h3 {
+  margin: 15px 0 10px;
+}
+.magazine-content h3 .title{
+  font-size: 24px;
+}
