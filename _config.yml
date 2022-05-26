@@ -1,5 +1,5 @@
-name: 'Lightning Network'
-description: 'Place where people meet to discuss and know fraud within DeFi'
+name: 'myLightning.Network'
+description: 'Reporting & Educating about Lightning Network'
 logo: "../../assets/images/logo.png"
 favicon: 'assets/images/favicon.ico'
 domain: mylightning.network         # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
