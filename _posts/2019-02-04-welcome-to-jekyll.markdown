@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to mylightning.network!"
 categories: [ Jekyll,Podcast,Videos ]
 image: '../assets/images/banner_image_1.png'
 audio: '../assets/audios/episode1.mp3'
